@@ -1,0 +1,141 @@
+Date,Company,Type of Client,Type of Location,Location,Rating,Amount,Salesman
+01-04-2024,PHOTON POCKET ENERGIES,Dealer,Industrial Complex,Sahibabad,1250 kVA,981288,A
+04-04-2024,VK GLOBAL DIGITAL,Regular,Industrial Complex,Faridabad,380 kVA,430700,B
+06-04-2024,OVN ENGINEERS,Dealer,Corporate Office,Gurgaon,380 kVA,340000,A
+06-04-2024,OVN ENGINEERS,Dealer,Corporate Office,Gurgaon,125 kVA,244100,A
+08-04-2024,GANDHARVA SOCIETY,Regular,Residential,Greater Noida,320 kVA,472708,C
+10-04-2024,PASCOS,Regular,Corporate Office,South Delhi,380 kVA,370000,B
+11-04-2024,GEN TECH ENGINEERS,Dealer,Corporate Office,Noida,180 kVA,283200,A
+13-04-2024,OLIVE COUNTRY,Regular,Residential,Ghaziabad,600 kVA,699150,C
+13-04-2024,OLIVE COUNTRY,Regular,Residential,Ghaziabad,600 kVA,699150,C
+17-04-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,1010 kVA,590000,A
+17-04-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,1010 kVA,590000,A
+17-04-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,1010 kVA,590000,A
+19-04-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,1010 kVA,590000,A
+19-04-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,A
+19-04-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,A
+29-04-2024,PASCOS,Regular,Corporate Office,East Delhi,50 kVA,283200,B
+14-05-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,A
+14-05-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,A
+14-05-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,C
+14-05-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,C
+14-05-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,A
+14-05-2024,DM REALTY DEVELOPER,Regular,Residential,Faridabad,500 kVA,356000,C
+31-05-2024,REX CONSOLIDATED,Regular,Industrial Complex,Faridabad,62.5 kVA,324500,B
+01-06-2024,Parsvnath Estate,Regular,Residential,New Delhi,380 kVA,32000,A
+01-06-2024,Parsvnath Estate,Regular,Residential,New Delhi,500 kVA,420000,A
+01-06-2024,Parsvnath Estate,Regular,Residential,New Delhi,750 kVA,600000,A
+01-06-2024,Parsvnath Estate,Regular,Residential,New Delhi,1250 kVA,810000,A
+06-06-2024,BINDAL SMELTING PVT LTD,Regular,Industrial Complex,Greater Noida,380 kVA,354000,B
+07-06-2024,PARASMANI MOTOR,Regular,Industrial Complex,South Delhi,250 kVA,330400,B
+19-06-2024,SOUBHAGYA PROCEESOR PVT.LTD.,Regular,Industrial Complex,GB Nagar,625 kVA,614780,B
+25-06-2024,KLJ REALTECH PVT.LTD.,Regular,Residential,Gurgaon,500 kVA,356000,C
+25-06-2024,KLJ REALTECH PVT.LTD.,Regular,Residential,Gurgaon,1250 kVA,620000,A
+28-06-2024,MALIK ENGINEERING,Dealer,Residential,South Delhi,200 kVA,1357000,A
+28-06-2024,MALIK ENGINEERING,Dealer,Residential,South Delhi,100 kVA,180000,A
+04-07-2024,GEN TECH ENGINEER,Dealer,Corporate Office,Noida,500 kVA,528640,B
+04-07-2024,GEN TECH ENGINEER,Dealer,Corporate Office,Noida,250 kVA,226560,B
+20-07-2024,MALIK ENGINEERING,Dealer,Residential,Noida ,500 kVA,1154252,C
+20-07-2024,MALIK ENGINEERING,Dealer,Residential,Noida ,200 kVA,462348,C
+20-07-2024,MALIK ENGINEERING,Dealer,Corporate Office,Noida,62.5 kVA,613600,B
+30-07-2024,GEN TECH ENGINEER,Dealer,Industrial Complex,Sahibabad,160 kVA,210000,B
+08-08-2024,INDIA STEEL SUMMIT,Regular,Industrial Complex,Greater Noida,1010 kVA,1008900,A
+09-08-2024,MALIK ENGINEERING,Dealer,Corporate Office,East Delhi,100 kVA,271400,B
+09-08-2024,MALIK ENGINEERING,Dealer,Corporate Office,East Delhi,100 kVA,271400,C
+27-08-2024,PROMHEX PLUS HEALTHCARE,Regular,Industrial Complex,Greater Noida,250 kVA,284380,B
+28-08-2024,NEW ALLENBERRY,Regular,Industrial Complex,Haryana,600 kVA,524000,C
+13-09-2024,HOTEL QUEEN ROAD PVT.LTD,Regular,Corporate Office,New Delhi,500 kVA,507400,C
+18-09-2024,Golden Tulip BDI Club & Suites,Regular,Corporate Office,Rajasthan,250 kVA,330400,B
+09-10-2024,GEN TECH ENGINEER,Dealer,Residential,Ghaziabad,200 kVA,300900,A
+10-10-2024,APOLLO GENERATOR,Regular,Industrial Complex,Greater Noida,250 kVA,283200,C
+14-10-2024,MONA GENERATOR SERVICES,Dealer,Industrial Complex,Rajasthan,750 kVA,511332.94,B
+14-10-2024,MONA GENERATOR SERVICES,Dealer,Industrial Complex,Rajasthan,750 kVA,511332.94,B
+15-10-2024,MONA GENERATOR SERVICES,Dealer,Residential,Ghaziabad,500 kVA,354000,A
+17-10-2024,PASCOS,Regular,Corporate Office,New Delhi,140 kVA,295000,B
+24-10-2024,OLIVE COUNTRY,Regular,Residential,Ghaziabad,600 kVA,684203,C
+24-10-2024,OLIVE COUNTRY,Regular,Residential,Ghaziabad,600 kVA,684203,C
+24-10-2024,OLIVE COUNTRY,Regular,Residential,Ghaziabad,600 kVA,684203,C
+25-10-2024,VOLT ELECTRONICS,Dealer,Corporate Office,South Delhi,125 kVA,180000,B
+25-10-2024,VOLT ELECTRONICS,Dealer,Corporate Office,South Delhi,200 kVA,198000,B
+25-10-2024,VOLT ELECTRONICS,Regular,Corporate Office,South Delhi,500 kVA,300000,B
+05-11-2024,GEN TECH ENGINEER,Dealer,Industrial Complex,Greater Noida,125 kVA,283200,A
+06-11-2024,MAGIC AUTO,Regular,Industrial Complex,Noida,125 kVA,295000,A
+15-11-2024,VOLT ELECTRONICS,Dealer,Corporate Office,South Delhi,125 kVA,180000,B
+15-11-2024,VOLT ELECTRONICS,Dealer,Corporate Office,South Delhi,160 kVA,180000,B
+16-11-2024,GEN TECH ENGINEER,Dealer,Industrial Complex,Noida,200 kVA,271400,B
+16-11-2024,Shree Balaji Packaging and Printing,Regular,Industrial Complex,Greater Noida,200 kVA,295000,A
+18-11-2024,Ghaziabad Diesel,Regular,Corporate Office,Noida,125 kVA,200000,A
+21-11-2024,Sonalika,Regular,Corporate Office,Noida,1500 kVA,750000,A
+21-11-2024,Sonalika,Regular,Corporate Office,Noida,1500 kVA,750000,A
+30-11-2024,RAMTARA RESORT,Regular,Corporate Office,South Delhi,125 kVA,177000,C
+04-08-2023,DIVY POWER,Regular,Corporate Office,Ghaziabad,380 kVA,370000,A
+04-08-2023,DIVY POWER,Regular,Corporate Office,Ghaziabad,650 kVA,500000,A
+04-08-2023,DIVY POWER,Regular,Corporate Office,Ghaziabad,650 kVA,500000,A
+29-08-2023,GREEN ENGINEERING,Dealer,Industrial Complex,Sahibabad,500 kVA,380000,B
+23-09-2023,PS POWER,Regular,Industrial Complex,Bahadurgarh,400 kVA,325000,B
+25-09-2023,KW SECURITY SYSTEM,Regular,Corporate Office,Ghaziabad,500 kVA,470000,A
+25-09-2023,KW SECURITY SYSTEM,Regular,Corporate Office,Ghaziabad,500 kVA,470000,A
+04-10-2023,PRINITI FOOD,Regular,Industrial Complex,Sonepat,500 kVA,411000,C
+04-10-2023,GREEN ENGINEERING,Dealer,Industrial Complex,Noida,380 kVA,354000,A
+04-10-2023,GREEN ENGINEERING,Dealer,Industrial Complex,Noida,125 kVA,180000,A
+06-10-2023,GREEN ENGINEERING,Dealer,Industrial Complex,Noida,125 kVA,200000,C
+06-10-2023,GREEN ENGINEERING,Dealer,Industrial Complex,Noida,125 kVA,200000,C
+09-10-2023,PS POWER,Regular,Industrial Complex,Bahadurgarh,250 kVA,230000,A
+09-10-2023,PS POWER,Regular,Industrial Complex,Bahadurgarh,250 kVA,230000,A
+11-10-2023,GREEN ENGINEERING,Dealer,Industrial Complex,Noida,500 kVA,380000,A
+13-10-2023,KW SECURITY SYSTEM,Regular,Corporate Office,Noida,200 kVA,240000,B
+13-10-2023,KW SECURITY SYSTEM,Regular,Corporate Office,Noida,200 kVA,240000,B
+16-10-2023,ALBERO DESIGN SEC-65,Regular,Corporate Office,Noida,62.5 kVA,250000,B
+17-10-2023,VS RUBBER,Regular,Corporate Office,Meerut,180 kVA,225000,C
+17-10-2023,VS RUBBER,Regular,Corporate Office,Meerut,250 kVA,225000,A
+20-10-2023,POWER LINE,Dealer,Corporate Office,Noida,250 kVA,270000,A
+21-10-2023,VK GLOBAL FBD,Regular,Industrial Complex,Faridabad,500 kVA,450000,A
+21-10-2023,RULE MARKS,Regular,Corporate Office,Noida,82.5 kVA,360000,C
+07-11-2023,NOIDA ENGG.,Dealer,Industrial Complex,Ghaziabad,125 kVA,200000,C
+17-11-2023,Gen Tech Engineers,Dealer,Corporate Office,Haryana,125 kVA,240000,A
+30-11-2023,Gen Tech Engineers,Dealer,Corporate Office,Noida,82.5 kVA,240000,A
+01-12-2023,Magic Auto Pvt. Ltd. (Patparganj),Regular,Industrial Complex,East Delhi,125 kVA,260000,B
+01-12-2023,Holistic Farms Pvt Ltd,Regular,Corporate Office,South Delhi,125 kVA,285000,C
+14-12-2023,Gurgaon Infospace Limited,Regular,Corporate Office,Gurgaon,82.5 kVA,275000,B
+16-12-2023,Gen Tech Engineers,Dealer,Corporate Office,South Delhi,250 kVA,270000,A
+16-12-2023,Gen Tech Engineers,Dealer,Corporate Office,South Delhi,250 kVA,270000,A
+16-12-2023,Gen Tech Engineers,Dealer,Corporate Office,South Delhi,380 kVA,320000,A
+19-12-2023,Gen Tech Engineers,Dealer,Residential,South Delhi,500 kVA,445000,A
+19-12-2023,Gen Tech Engineers,Dealer,Residential,South Delhi,500 kVA,445000,C
+22-12-2023,OVN Engineers Pvt. Ltd.,Dealer,Corporate Office,Gurgaon,500 kVA,1390000,B
+22-12-2023,OVN Engineers Pvt. Ltd.,Dealer,Corporate Office,Gurgaon,1010 kVA,970000,B
+24-12-2023,BSNL OSAS Ltd.,Regular,Residential,Greater Noida,82.5 kVA,245000,C
+24-12-2023,BSNL OSAS Ltd.,Regular,Residential,Greater Noida,125 kVA,255000,C
+25-12-2023,Royal Power Solution,Regular,Industrial Complex,South Delhi,1010 kVA,460000,B
+26-12-2023,Praveen Holdings Pvt Ltd,Regular,Corporate Office,Noida,200 kVA,260000,B
+26-12-2023,Ekdant Softech Pvt Ltd,Regular,Corporate Office,Noida,82 kVA,240000,C
+26-12-2023,Ekdant Softech Pvt Ltd,Regular,Corporate Office,Noida,125 kVA,250000,A
+26-12-2023,A.S Board & Paper Boxes Pvt Ltd,Regular,Industrial Complex,Noida,125 kVA,250000,A
+26-12-2023,A.S Board & Paper Boxes Pvt Ltd,Regular,Industrial Complex,Noida,125 kVA,250000,A
+28-12-2023,KRBL Infrastructure Limited,Dealer,Industrial Complex,Noida,750 kVA,1500000,B
+28-12-2023,KRBL Infrastructure Limited,Dealer,Industrial Complex,Noida,380 kVA,420000,B
+09-01-2024,Ramatara Resorts Pvt Ltd,Regular,Corporate Office,South Delhi,500 kVA,450000,A
+09-01-2024,Magic Auto Pvt. Ltd. (Mayapuri),Regular,Corporate Office,West Delhi,125 kVA,250000,C
+16-01-2024,Space Telelink Ltd,Regular,Corporate Office,Bahadurgarh,125 kVA,275000,A
+16-01-2024,Space Telelink Ltd,Regular,Corporate Office,Bahadurgarh,125 kVA,275000,A
+17-01-2024,Cosmos Tapes & Labels Pvt Ltd,Regular,Corporate Office,Sahibabad,40 kVA,245000,A
+17-01-2024,Cosmos Tapes & Labels Pvt Ltd,Regular,Corporate Office,Sahibabad,40 kVA,245000,B
+19-01-2024,Gen Tech Engineers,Dealer,Residential,Ghaziabad,200 kVA,255000,B
+19-01-2024,Gen Tech Engineers,Dealer,Residential,South Delhi,500 kVA,890000,B
+02-02-2024,ACE Synergies & Holdings Pvt. Ltd.,Regular,Corporate Office,Noida,160 kVA,265000,A
+02-02-2024,Pacific Develcon Private Limited,Regular,Corporate Office,Noida,125 kVA,265000,A
+02-02-2024,Pacific Develcon Private Limited,Regular,Corporate Office,Noida,250 kVA,285000,C
+21-02-2024,Magic Auto Pvt. Ltd. (Kirti Nagar),Regular,Industrial Complex,West Delhi,125 kVA,250000,A
+22-02-2024,Goodluck Industries,Regular,Corporate Office,Ghaziabad,625 kVA,450000,A
+22-02-2024,Goodluck India Limited,Regular,Corporate Office,Ghaziabad,1250 kVA,880000,A
+25-02-2024,Olivecounty Apartment Owner's Association,Regular,Residential,Ghaziabad,600 kVA,554500,B
+25-02-2024,Olivecounty Apartment Owner's Association,Regular,Residential,Ghaziabad,600 kVA,2370000,A
+12-03-2024,Gen Tech Engineers,Dealer,Corporate Office,Noida,180 kVA,240000,B
+18-03-2024,Tirupati Textiles,Regular,Industrial Complex,Greater Noida,500 kVA,418000,A
+19-03-2024,Aamor Inox Limited (Photon Packet Energies),Regular,Industrial Complex,Sahibabad,1250 kVA,830000,B
+20-03-2024,"Pascos (Tata Motors), Mathura Road",Regular,Corporate Office,South Delhi,380 kVA,370000,B
+20-03-2024,"Pascos (Tata Motors), Okhla",Regular,Corporate Office,South Delhi,50 kVA,240000,B
+02-04-2024,Gupta Exim India Pvt. Ltd.,Regular,Industrial Complex,Noida,750 kVA,1020000,B
+04-04-2024,VK Global Digital,Regular,Corporate Office,Noida,380 kVA,355000,B
+04-04-2024,OVN Engineers Pvt. Ltd. ,Dealer,Corporate Office,Noida,125 kVA,220000,A
+04-04-2024,OVN Engineers Pvt. Ltd.,Dealer,Corporate Office,Noida,380 kVA,275000,A
